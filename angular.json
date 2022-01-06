@@ -6,7 +6,7 @@
     "angular_project": {
       "projectType": "application",
       "schematics": {},
-      "root": "",
+      "root": "src/index.html",
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
